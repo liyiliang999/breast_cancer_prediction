@@ -1,1 +1,1 @@
-# breast_cancer_rediction
+# breast_cancer_prediction
