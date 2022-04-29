@@ -25,7 +25,7 @@ page = st.sidebar.selectbox(
 
 if page == "Dataset":
     st.write("Although breast cancer is the most common gynecological cancer, most breast lumps are not cancer. In fact, more than 80 percent of breast lumps end up being benign. However, can we identify breast cancer from a breast lump?")
-    st.write("We developed an analysis and prediction algorithm to predict Breast Cancer. You can view our work through: ")
+    st.write("I developed an analysis and prediction algorithm to predict Breast Cancer. You can view my work through: https://github.com/liyiliang999/breast_cancer_prediction/blob/main/Breast%20Cancer%20Prediction.ipynb")
     st.write("This is a Dashboard to offer a general view to our data.")
     st.write("Here is our dataset of breat cancer.")
     if st.button('Show Data'):
