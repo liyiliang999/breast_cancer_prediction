@@ -9,6 +9,6 @@ Data can be viewed through Streamlit dashboard: https://share.streamlit.io/liyil
 
 Read code: https://github.com/liyiliang999/breast_cancer_prediction/blob/main/Breast%20Cancer%20Prediction.ipynb
 
-Report: 
+Report: https://github.com/liyiliang999/breast_cancer_prediction/blob/main/breast_cancer_prediction_no_code.pdf (without code)
 
 
